@@ -1,0 +1,36 @@
+.Home {
+    background:#fff;  
+    display: flex; 
+    height: 630px; 
+    padding-top: 80px;
+    position: relative; 
+}  
+
+.Home .Container {
+    position: absolute; 
+    top: 15%; 
+    left: 2%; 
+    color: black;
+} 
+
+.Home .Container {
+    font-size: 50px;
+}
+
+.Home .Container h1{
+    margin: 0; 
+    text-align: right;
+} 
+.Hand{
+    width: 40%; 
+    height: 70%;
+    position: center;
+} 
+
+.Hello {
+    color: rgb(239, 182, 61);
+}
+/* .Home .Hand {
+    height: 70%; 
+    position: center; 
+}   */
